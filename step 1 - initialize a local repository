@@ -12,3 +12,8 @@ Step 3-
 	inside foldername/
 	paste 'git remote add origin git@githun/username/repo.git'
 	git push -u origin master
+	create or edit our files locally
+	git add <filename>
+	git commit -m"i just added a form"
+	git push origin master
+	
